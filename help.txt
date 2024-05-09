@@ -1,0 +1,15 @@
+Welcome to the NASBA Certification Generator!
+
+First off, this program requires the user to download the following API libraries
+- openxl
+- python-docx
+
+You can easily install this libraries using the command "pip install (library name)"
+And within VSCODE you can use the command "py -m pip install (library name)"
+
+The next important thing is that your excel files are properly formatted.
+
+-This program looks for its data on the first sheet of the Excel File
+-It looks for names in the second column
+-And it looks for the candidates score in the third column
+
